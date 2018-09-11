@@ -50,6 +50,5 @@ URL da API
 
 *Resolvido.*
 * `Progressive Web App` : É a maneira ideal que encontrámos para divulgar a aplicação porque quer o Google Chrome, quer o Safari, deixam adicionar o ícone no smartphone e aceder mesmo quando offline..
-* `Alojamento` : A **TáxiQueixa** está partilhado com a [
-BlueStage](https://bluestage.net), os servidores são da [One.com](http://one.me/ptawsdls).
-* `Domínio` : Está registado com a [One.com](http://one.me/ptawsdls)
+* `Alojamento` : O **EntidadeMB** está hospedado no nosso servidor interno.
+* `Domínio` : Está registado com a [NameCheap.com](http://one.me/ptawsdls)

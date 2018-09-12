@@ -14,7 +14,7 @@ Sempre que houverem sugestões aqui no repositório, será acrescentado na base 
 
 ## 👥 Utilizadores
 
-Não existe a possibilidade de haver sistema de utilizadores nesta aplicação.
+Não existe sistema de utilizadores nesta aplicação.
 
 
 ## 🔢 Entidades
